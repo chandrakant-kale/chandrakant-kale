@@ -38,7 +38,7 @@ I'm a **Full-Stack Developer** focused on building practical and scalable web ap
 * 🧠 Interested in **backend systems, APIs, databases and scalable architectures**
 * 🚀 Continuously improving my software engineering skills
 * 📂 All of my projects are available on **[GitHub](https://github.com/chandrakant-kale)**
-* 📫 Reach me at **[chandrakantkale330@gmail.com](mailto:chandrakantkale517@gmail.com)**
+* 📫 Reach me at **[chandrakantkale517@gmail.com](mailto:chandrakantkale517@gmail.com)**
 
 ---
 
