@@ -33,7 +33,7 @@ Full-Stack Developer • MERN Stack
 
 I'm a **Full-Stack Developer** focused on building practical and scalable web applications.
 
-* 🌱 Currently learning **PostgreSQL, database design & backend architecture**
+* 🌱 Currently learning **E2EE, PostgreSQL, database design & backend architecture**
 * 💻 Working primarily with the **MERN stack**
 * 🧠 Interested in **backend systems, APIs, databases and scalable architectures**
 * 🚀 Continuously improving my software engineering skills
