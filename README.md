@@ -44,8 +44,6 @@ I'm a **Full-Stack Developer** focused on building practical and scalable web ap
 
 ### 🛠️ Tech Stack
 
-#### Frontend
-
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
