@@ -73,6 +73,9 @@ I'm a **Full-Stack Developer** focused on building practical and scalable web ap
   <a href="https://leetcode.com/u/chandrakantkale330/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" height="35" alt="LeetCode"/>
   </a>
+  <a href="https://instagram.com/chandcodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="instagram"/>
+  </a>
 </p>
 
 ---
